@@ -2,7 +2,7 @@
 
 ### Blake Lee : blake-lee-38 ###
 
-My name is Blake Lee, I'm a Computer Science student at the University of Oklahoma and aspiring software engineer. Though I came to OU a Finance major, in just a few short years I fell in love with coding and development, which leads me here today. I am now pursuing a career in Software Engineering and use this space as a way to showcase my past projects both personal and through schoolwork, as well as whatever is peaking my interest at the moment.
+My name is Blake Lee, I'm a Computer Science student at the University of Oklahoma and aspiring software engineer. Though I came to OU a Finance major, in just a few short years I fell in love with the vast, powerful, enticing world of coding and development, which leads me here today. I am now pursuing a career in Software Engineering and use this space as a way to showcase my past projects both personal and through schoolwork, as well as whatever is peaking my interest at the moment.
 
 ## 💻 I'm Currently Building... ##
 - Digi-Lorax, an AI-Powered Chrome Extension to Promote Sustainable Shopping

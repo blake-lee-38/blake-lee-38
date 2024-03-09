@@ -9,6 +9,9 @@ My name is Blake Lee, I'm a Computer Science student at the University of Oklaho
 - Campus Critic, a cross-platform app to help college students get to know their college town
 - Tune Share, a web app to help users connect with their friends through music
 
+## 💻 My Skills##
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 ## 📫 Get In Touch ##
 I would to hear from you regarding any suggestions, comments, project ideas, or internship/job opportunities! The easiest way to contact me would be connecting on LinkedIn!
 
